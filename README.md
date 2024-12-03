@@ -13,7 +13,6 @@ The objective of the project on election turnout trends is to analyze historical
 1. Pandas
 2. Matplotlib
  
-
 ## Data Source(s)
 The data used in this project was gathered from:
 - Publicly available election datasets (e.g., [Election Commission Website(#)], [Kaggle(#)])
