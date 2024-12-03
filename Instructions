@@ -1,1 +1,5 @@
-
+Step 1: Download CSV file from Project_Root<Data
+Step 2: Download the codes from Project_Root<src
+Step 3: Upload the codes in google colab
+Step 4: Upload the CSV file in google colab
+Step 5: Run the code and you will get your desired output
