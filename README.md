@@ -3,7 +3,7 @@
 ## Group Members
 - Mansi Rawat : KU2407U487
 - Mihir Mishra : KU2407U489
-- Krishna Vishvani : KU2407U86
+- Krishna Vishvani : KU2407U486
 - Nishant Dabgar : KU2407U490
 
 ## Objective of the Project
