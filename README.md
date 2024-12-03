@@ -6,7 +6,6 @@
 - Krishna Vishvani : KU2407U86
 - Nishant Dabgar : KU2407U490
 
-
 ## Objective of the Project
 The objective of the project on election turnout trends is to analyze historical voter turnout data to uncover patterns and predict future turnout rates. The aim is to identify key factors influencing voter participation, such as demographics, socioeconomic conditions, and election-specific dynamics. Insights from this analysis can assist policymakers and stakeholders in improving voter engagement and addressing turnout disparities.
 
